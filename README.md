@@ -1,6 +1,7 @@
-# GPU Optimizer for ML Models
+# GPU Optimizer for Machine Learning
 
-Welcome to the GPU Optimizer for ML Models! This project aims to optimize GPU performance for machine learning models, leveraging advanced techniques and a wide array of technologies.
+Hey there! This is a small tool I’ve been exploring to understand how to speed up ML model inference on the GPU. The goal is simple: analyze where time is being spent and try to fix it using CUDA and performance profiling.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
